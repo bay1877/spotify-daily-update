@@ -109,7 +109,6 @@ This project assumes you have python installed.
    ```sh
    cd spotify-daily-update 
    ```
-   TODO check the dir that is created
 3. Setup and enter the virtual environment.
    ```sh
    python3 -m venv venv
